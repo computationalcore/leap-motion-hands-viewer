@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.9",
+	"Category": "",
+	"Description": "This is a sample hands viewer project using Leap Motion",
+	"Plugins": [
+		{
+			"Name": "LeapMotionController",
+			"Enabled": true
+		}
+	]
+}
