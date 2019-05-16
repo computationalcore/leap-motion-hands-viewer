@@ -4,7 +4,9 @@ Leap Motion Viewer is an Unreal project done using with Leap Motion SDK that att
 
 To interact with the demos have your physical Leap Motion controller connected to your computer, run the demo and just wave your hands above the device.
 
-![](https://github.com/computationalcore/leap-motion-hands-viewer/raw/assets/screen.png)
+[![](http://img.youtube.com/vi/S4lJ3gzG608/0.jpg)](http://www.youtube.com/watch?v=S4lJ3gzG608 "Leap Motion Hands Viewer ")
+
+[Watch Video](http://www.youtube.com/watch?v=S4lJ3gzG608)
 
 ## Getting Started
 
